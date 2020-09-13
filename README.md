@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **I'm XeNitrogen**
 
 - 🔭 I’m currently working on the HeloCade Network
